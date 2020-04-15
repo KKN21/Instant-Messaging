@@ -1,0 +1,26 @@
+.input {
+	    float:left;
+        background:#fff;  
+        height:30px;  
+        width:882px;  
+        border:1px solid #ACD8F0;  
+        display:block;
+        position:absolute; bottom:0;
+	    position: fixed;
+        margin:auto;
+}
+input {
+	width:820px;
+	height: 30px;
+    margin: auto;
+}
+button{
+	width: 50px;
+	height: 32px;
+	
+}
+img{
+	width:4em;
+	height:4em;
+	
+}

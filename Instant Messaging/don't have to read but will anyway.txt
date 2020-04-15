@@ -1,0 +1,1 @@
+I made the dog picture 22000x22000px and it paint took 14gb of RAM and the picture was 380mb big. i planned on putting the picture of the big dog in this repository but it was too big ;(.
